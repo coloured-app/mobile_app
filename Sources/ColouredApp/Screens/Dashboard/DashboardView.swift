@@ -18,7 +18,7 @@ public struct DashboardView: View {
             #if !SKIP
             .scrollIndicators(.hidden)
             #endif
-            .navigationTitle("_coloured.")
+            .navigationTitle("Обзор")
             .navigationBarTitleDisplayMode(.large)
         }
     }

@@ -1,9 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "_coloured." : {
-
-    },
     "Appearance" : {
       "extractionState" : "stale",
       "localizations" : {
@@ -353,6 +350,15 @@
       }
     },
     "Автор: %@" : {
+
+    },
+    "Коллекции" : {
+
+    },
+    "Настройки" : {
+
+    },
+    "Обзор" : {
 
     }
   },
