@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211860695653",
+    "project_id": "coloured-10ebd",
+    "storage_bucket": "coloured-10ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211860695653:android:5579c69c92ed322a64348c",
+        "android_client_info": {
+          "package_name": "com.coloured.ColouredApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB99091bzvnwMU9JPT_uEYdwBJ0SaEFSZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

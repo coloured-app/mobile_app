@@ -4,6 +4,7 @@ import skip.lib.*
 import skip.model.*
 import skip.foundation.*
 import skip.ui.*
+import skip.firebase.core.FirebaseApp
 
 import android.Manifest
 import android.app.Application
